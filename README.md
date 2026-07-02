@@ -302,3 +302,4 @@ Before your AWS Academy lab session timer hits zero, cleanly destroy your deploy
 ```bash
 aws cloudformation delete-stack --stack-name minilib-stack
 ```
+'# vN' 
